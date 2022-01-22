@@ -153,7 +153,7 @@ function myClickEvent(e){
 </html>
 ```
 ## OUTPUT:
-![github](5.png)
+![github](paint.png)
 
 ## Result:
 
