@@ -151,7 +151,7 @@ function myClickEvent(e){
 </body>
 </html>
 ## OUTPUT:
-![github](Ex 5.png)
+![github](5.png)
 
 ## Result:
 
