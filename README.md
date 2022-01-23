@@ -35,8 +35,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
-DOCTYPE html>
+
+            DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -151,7 +151,7 @@ function myClickEvent(e){
         </script>
 </body>
 </html>
-\\\
+ 
 
 ## OUTPUT:
 ![github](paint.png)
