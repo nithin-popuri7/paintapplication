@@ -155,6 +155,8 @@ function myClickEvent(e){
 
 ## OUTPUT:
 ![github](paint.png)
+![github](smiley.png)
+![github](Danger.png)
 
 ## Result:
 
